@@ -16,10 +16,10 @@ Ensemble of three convolutional networks (having different number of convolution
 
 ## Dependencies
 
-* Python 2.7
-* [IPython 3.0](http://ipython.org/)
+* Python 2.7.11
+* [IPython 4.0.1](http://ipython.org/)
 * [NumPy](http://www.numpy.org/)
-* [Theano 0.7](https://github.com/Theano/Theano/releases/tag/rel-0.7)
-* [Keras 0.1.2](https://github.com/fchollet/keras/releases/tag/0.1.2)
-* [scikit-learn](http://scikit-learn.org/stable/index.html)
+* [Theano 0.8.2](https://github.com/Theano/Theano/releases/tag/rel-0.8.2)
+* [Keras 1.0.3](https://github.com/fchollet/keras/releases/tag/1.0.3)
+* [scikit-learn 0.17.1](https://github.com/scikit-learn/scikit-learn/releases/tag/0.17.1)
 * [Pandas](http://pandas.pydata.org/)
