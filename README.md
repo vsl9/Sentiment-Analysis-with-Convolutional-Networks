@@ -17,9 +17,9 @@ Ensemble of three convolutional networks (having different number of convolution
 ## Dependencies
 
 * Python 2.7.11
-* [IPython 4.0.1](http://ipython.org/)
+* [IPython / Jupyter Notebook](http://ipython.org/)
 * [NumPy](http://www.numpy.org/)
 * [Theano 0.8.2](https://github.com/Theano/Theano/releases/tag/rel-0.8.2)
-* [Keras 1.0.3](https://github.com/fchollet/keras/releases/tag/1.0.3)
+* [Keras 1.2.0](https://github.com/fchollet/keras/releases/tag/1.2.0)
 * [scikit-learn 0.17.1](https://github.com/scikit-learn/scikit-learn/releases/tag/0.17.1)
 * [Pandas](http://pandas.pydata.org/)
